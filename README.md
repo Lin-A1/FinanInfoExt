@@ -1,3 +1,9 @@
+开始前注意删除`workspace/data.json`
+
+然后修改当前目录下的`data.json`的结构作为自己要提取的结构
+
+请根据自己的数据的密集程度调整自己使用的模型的参数量大小-`config/config2.yaml`
+
 ```json
 {
     "product_info": {
@@ -50,4 +56,4 @@
     }
 }
 
-```# FinanInfoExt
+```
