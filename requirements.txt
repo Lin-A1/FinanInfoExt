@@ -1,0 +1,17 @@
+langchain
+langchain-community==0.3.1
+
+pandas
+tqdm
+
+gensim
+transformers
+
+redis
+neo4j
+faiss-gpu
+yaml
+pyyaml
+numpy
+
+metagpt

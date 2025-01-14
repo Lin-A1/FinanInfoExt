@@ -1,0 +1,9 @@
+.*
+!.gitignore
+**/__pycache__/
+metagpt
+workspace
+logs
+agent/metagpt
+agent/workspace
+agent/logs
